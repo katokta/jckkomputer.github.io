@@ -5,10 +5,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/style0.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	
-	<title></title> 
+	<title>JCK Komputer</title> 
 </head>
 <body>
 	<section class="hero-section set-bg" data-setbg="img/1.jpg" style="background-image: url(img/1.jpeg);">
