@@ -11,7 +11,7 @@
 	<title>JCK Komputer</title> 
 </head>
 <body>
-	<section class="hero-section set-bg" data-setbg="img/1.jpg" style="background-image: url(img/1.jpeg);">
+	<section class="hero-section set-bg" data-setbg="img/1.jpeg" style="background-image: url(img/1.jpeg);">
 		<div class="container">
 			<div class="hero-warp">
 			<form class="main-search-form" >
